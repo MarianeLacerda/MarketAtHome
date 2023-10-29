@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4a834e1.css",
+    "main.js": "/static/js/main.69d0b4ce.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/hero_image.png": "/static/media/hero_image.e5df57328eb6e7de13fc.png",
+    "static/media/banner_women.png": "/static/media/banner_women.f03680b8b6e4a3dbde8c.png",
+    "static/media/banner_mens.png": "/static/media/banner_mens.b742d832c07ebb7a7aa6.png",
+    "static/media/exclusive_image.png": "/static/media/exclusive_image.0176429ce1e397c25c26.png",
+    "static/media/product_12.png": "/static/media/product_12.706f6620e01c02307ac9.png",
+    "static/media/product_3.png": "/static/media/product_3.3f945c010a34803d8af0.png",
+    "static/media/product_2.png": "/static/media/product_2.a5fe8021059048bc5088.png",
+    "static/media/product_9.png": "/static/media/product_9.2ed8a24a026f153e923c.png",
+    "static/media/product_19.png": "/static/media/product_19.905e8903323dd16a8609.png",
+    "static/media/product_10.png": "/static/media/product_10.3ec812043e5c592fe7d4.png",
+    "static/media/product_20.png": "/static/media/product_20.b750d6fe470febbfbbbe.png",
+    "static/media/product_17.png": "/static/media/product_17.30c3c4085e440cd94805.png",
+    "static/media/product_18.png": "/static/media/product_18.f8ebc4c0fba6020cfdb5.png",
+    "static/media/product_13.png": "/static/media/product_13.072571009014877ea8ae.png",
+    "static/media/product_16.png": "/static/media/product_16.87b42657ecf86850435c.png",
+    "static/media/product_15.png": "/static/media/product_15.e1268ea7f99693cecbb0.png",
+    "static/media/product_11.png": "/static/media/product_11.3fde2ba608f5e5936eac.png",
+    "static/media/product_4.png": "/static/media/product_4.1afd572b87a508d35434.png",
+    "static/media/product_8.png": "/static/media/product_8.dbda3beb62c3ea17898d.png",
+    "static/media/product_1.png": "/static/media/product_1.954fe8c3825b605f407c.png",
+    "static/media/hand_icon.png": "/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "static/media/product_14.png": "/static/media/product_14.7e6cc32d4f2e51336963.png",
+    "static/media/product_5.png": "/static/media/product_5.dcfe6a49d1f8a35c289b.png",
+    "static/media/product_6.png": "/static/media/product_6.8064a87e0d2410edd8be.png",
+    "static/media/product_7.png": "/static/media/product_7.624b9c06d2689307a962.png",
+    "static/media/logo.png": "/static/media/logo.b01a8e3437cc3962eb06.png",
+    "static/media/logo_big.png": "/static/media/logo_big.b01a8e3437cc3962eb06.png",
+    "index.html": "/index.html",
+    "main.f4a834e1.css.map": "/static/css/main.f4a834e1.css.map",
+    "main.69d0b4ce.js.map": "/static/js/main.69d0b4ce.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a834e1.css",
+    "static/js/main.69d0b4ce.js"
+  ]
+}
